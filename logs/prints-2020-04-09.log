@@ -1,0 +1,71 @@
+18:26:18.374 [main] INFO  resources.base - Successfully validated text
+18:30:31.718 [main] INFO  resources.base - Driver is Initialized
+18:30:35.922 [main] INFO  resources.base - Navigated to the Homepage
+18:30:40.179 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:30:40.429 [main] INFO  resources.base - Entered the Username
+18:30:40.572 [main] INFO  resources.base - Entered the Password
+18:30:41.561 [main] INFO  resources.base - Clicked the Signin Button
+18:30:43.331 [main] INFO  resources.base - Navigated to the Homepage
+18:30:45.408 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:30:45.530 [main] INFO  resources.base - Entered the Username
+18:30:45.634 [main] INFO  resources.base - Entered the Password
+18:30:47.199 [main] INFO  resources.base - Clicked the Signin Button
+18:30:53.399 [main] INFO  resources.base - Driver is Initialized
+18:30:57.496 [main] INFO  resources.base - Navigated to Homepage
+18:30:57.697 [main] INFO  resources.base - Successfully validated the Navlink button
+18:31:03.679 [main] INFO  resources.base - Driver is Initialized
+18:31:07.627 [main] INFO  resources.base - Navigated to Homepage
+18:31:18.756 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:31:18.785 [main] INFO  resources.base - Successfully validated text
+18:33:12.262 [main] INFO  resources.base - Driver is Initialized
+18:33:17.169 [main] INFO  resources.base - Navigated to the Homepage
+18:33:21.867 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:33:22.122 [main] INFO  resources.base - Entered the Username
+18:33:22.248 [main] INFO  resources.base - Entered the Password
+18:33:24.883 [main] INFO  resources.base - Clicked the Signin Button
+18:33:26.774 [main] INFO  resources.base - Navigated to the Homepage
+18:33:28.953 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:33:29.102 [main] INFO  resources.base - Entered the Username
+18:33:29.193 [main] INFO  resources.base - Entered the Password
+18:33:30.673 [main] INFO  resources.base - Clicked the Signin Button
+18:33:37.032 [main] INFO  resources.base - Driver is Initialized
+18:33:41.078 [main] INFO  resources.base - Navigated to Homepage
+18:33:41.265 [main] INFO  resources.base - Successfully validated the Navlink button
+18:33:51.478 [main] INFO  resources.base - Driver is Initialized
+18:33:55.638 [main] INFO  resources.base - Navigated to Homepage
+18:33:58.314 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:33:58.410 [main] INFO  resources.base - Successfully validated text
+18:37:46.433 [main] INFO  resources.base - Driver is Initialized
+18:37:50.894 [main] INFO  resources.base - Navigated to the Homepage
+18:37:55.052 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:37:55.593 [main] INFO  resources.base - Entered the Username
+18:37:55.757 [main] INFO  resources.base - Entered the Password
+18:37:56.888 [main] INFO  resources.base - Clicked the Signin Button
+18:37:58.895 [main] INFO  resources.base - Navigated to the Homepage
+18:38:01.997 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:38:02.168 [main] INFO  resources.base - Entered the Username
+18:38:02.298 [main] INFO  resources.base - Entered the Password
+18:38:04.098 [main] INFO  resources.base - Clicked the Signin Button
+18:38:10.199 [main] INFO  resources.base - Driver is Initialized
+18:38:14.302 [main] INFO  resources.base - Navigated to Homepage
+18:38:14.459 [main] INFO  resources.base - Successfully validated the Navlink button
+18:38:20.175 [main] INFO  resources.base - Driver is Initialized
+18:38:24.126 [main] INFO  resources.base - Navigated to Homepage
+18:38:25.556 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:38:25.588 [main] INFO  resources.base - Successfully validated text
+18:44:23.967 [main] INFO  resources.base - Driver is Initialized
+18:44:28.302 [main] INFO  resources.base - Navigated to the Homepage
+18:44:32.552 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:44:32.774 [main] INFO  resources.base - Entered the Username
+18:44:32.897 [main] INFO  resources.base - Entered the Password
+18:44:33.985 [main] INFO  resources.base - Clicked the Signin Button
+18:44:35.819 [main] INFO  resources.base - Navigated to the Homepage
+18:44:38.355 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:44:38.481 [main] INFO  resources.base - Entered the Username
+18:44:38.573 [main] INFO  resources.base - Entered the Password
+18:44:40.279 [main] INFO  resources.base - Clicked the Signin Button
+18:44:46.426 [main] INFO  resources.base - Driver is Initialized
+18:44:50.381 [main] INFO  resources.base - Navigated to Homepage
+18:44:50.589 [main] INFO  resources.base - Successfully validated the Navlink button
+18:45:00.314 [main] INFO  resources.base - Driver is Initialized
+18:45:04.329 [main] INFO  resources.base - Navigated to Homepage

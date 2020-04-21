@@ -1,0 +1,67 @@
+18:45:06.019 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:45:06.067 [main] INFO  resources.base - Successfully validated text
+18:45:55.741 [main] INFO  resources.base - Driver is Initialized
+18:45:59.729 [main] INFO  resources.base - Navigated to Homepage
+18:45:59.939 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:45:59.978 [main] INFO  resources.base - Successfully validated text
+18:46:51.187 [main] INFO  resources.base - Driver is Initialized
+18:46:55.979 [main] INFO  resources.base - Navigated to Homepage
+18:47:06.185 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:47:06.221 [main] INFO  resources.base - Successfully validated text
+18:49:11.295 [main] INFO  resources.base - Driver is Initialized
+18:49:15.355 [main] INFO  resources.base - Navigated to Homepage
+18:49:20.582 [main] INFO  resources.base - Successfully clicked the view all courses button
+18:49:20.669 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:50:29.065 [main] INFO  resources.base - Driver is Initialized
+18:50:33.464 [main] INFO  resources.base - Navigated to Homepage
+18:50:38.763 [main] INFO  resources.base - Successfully clicked the view all courses button
+18:50:38.878 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:50:38.920 [main] INFO  resources.base - Successfully validated text
+18:53:49.388 [main] INFO  resources.base - Driver is Initialized
+18:53:53.497 [main] INFO  resources.base - Navigated to the Homepage
+18:53:57.586 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:53:57.900 [main] INFO  resources.base - Entered the Username
+18:53:58.060 [main] INFO  resources.base - Entered the Password
+18:53:59.115 [main] INFO  resources.base - Clicked the Signin Button
+18:54:01.113 [main] INFO  resources.base - Navigated to the Homepage
+18:54:03.762 [main] INFO  resources.base - Clicked the Homepage Login Button
+18:54:03.892 [main] INFO  resources.base - Entered the Username
+18:54:04.017 [main] INFO  resources.base - Entered the Password
+18:54:05.248 [main] INFO  resources.base - Clicked the Signin Button
+18:54:11.314 [main] INFO  resources.base - Driver is Initialized
+18:54:15.293 [main] INFO  resources.base - Navigated to Homepage
+18:54:15.449 [main] INFO  resources.base - Successfully validated the Navlink button
+18:54:21.304 [main] INFO  resources.base - Driver is Initialized
+18:54:25.126 [main] INFO  resources.base - Navigated to Homepage
+18:54:30.866 [main] INFO  resources.base - Successfully clicked the view all courses button
+18:54:30.924 [main] INFO  resources.base - Successfully extracted the text from the Homepage
+18:54:30.959 [main] INFO  resources.base - Successfully validated text
+15:05:27.716 [TestNG] INFO  resources.base - Driver is Initialized
+15:05:27.732 [TestNG] INFO  resources.base - Driver is Initialized
+15:05:27.796 [TestNG] INFO  resources.base - Driver is Initialized
+15:05:49.145 [TestNG] INFO  resources.base - Navigated to Homepage
+15:05:49.145 [TestNG] INFO  resources.base - Navigated to Homepage
+15:05:49.146 [TestNG] INFO  resources.base - Navigated to the Homepage
+15:05:49.294 [TestNG] INFO  resources.base - Successfully validated the Navlink button
+15:05:54.838 [TestNG] INFO  resources.base - Successfully clicked the view all courses button
+15:05:54.888 [TestNG] INFO  resources.base - Successfully extracted the text from the Homepage
+15:05:54.912 [TestNG] INFO  resources.base - Successfully validated text
+15:06:04.323 [TestNG] INFO  resources.base - Clicked the Homepage Login Button
+15:06:04.530 [TestNG] INFO  resources.base - Entered the Username
+15:06:04.627 [TestNG] INFO  resources.base - Entered the Password
+15:06:07.173 [TestNG] INFO  resources.base - Clicked the Signin Button
+15:06:18.960 [TestNG] INFO  resources.base - Navigated to the Homepage
+15:06:22.126 [TestNG] INFO  resources.base - Clicked the Homepage Login Button
+15:06:22.253 [TestNG] INFO  resources.base - Entered the Username
+15:06:22.345 [TestNG] INFO  resources.base - Entered the Password
+15:06:24.356 [TestNG] INFO  resources.base - Clicked the Signin Button
+15:06:58.732 [TestNG] INFO  resources.base - Driver is Initialized
+15:06:59.270 [TestNG] INFO  resources.base - Driver is Initialized
+15:06:59.343 [TestNG] INFO  resources.base - Driver is Initialized
+15:07:06.987 [TestNG] INFO  resources.base - Navigated to Homepage
+15:07:08.258 [TestNG] INFO  resources.base - Navigated to the Homepage
+15:07:08.284 [TestNG] INFO  resources.base - Successfully validated the Navlink button
+15:07:11.272 [TestNG] INFO  resources.base - Navigated to Homepage
+15:07:18.138 [TestNG] INFO  resources.base - Successfully clicked the view all courses button
+15:07:18.270 [TestNG] INFO  resources.base - Successfully extracted the text from the Homepage
+15:07:18.320 [TestNG] INFO  resources.base - Successfully validated text

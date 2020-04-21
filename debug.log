@@ -1,0 +1,5 @@
+[0331/171801.714:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0407/181751.339:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0407/181751.343:ERROR:exception_snapshot_win.cc(98)] thread ID 22380 not found in process
+[0407/181751.343:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0408/144125.880:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports

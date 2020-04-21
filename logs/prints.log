@@ -1,0 +1,9 @@
+15:07:18.887 [TestNG] INFO  resources.base - Clicked the Homepage Login Button
+15:07:19.661 [TestNG] INFO  resources.base - Entered the Username
+15:07:19.862 [TestNG] INFO  resources.base - Entered the Password
+15:07:20.831 [TestNG] INFO  resources.base - Clicked the Signin Button
+15:07:23.003 [TestNG] INFO  resources.base - Navigated to the Homepage
+15:07:26.060 [TestNG] INFO  resources.base - Clicked the Homepage Login Button
+15:07:26.202 [TestNG] INFO  resources.base - Entered the Username
+15:07:26.308 [TestNG] INFO  resources.base - Entered the Password
+15:07:27.573 [TestNG] INFO  resources.base - Clicked the Signin Button
