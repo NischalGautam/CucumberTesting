@@ -1,0 +1,6 @@
+resources\base.class
+TestCases\App.class
+resources\ExtentManager.class
+pageObjects\LandingPage.class
+pageObjects\portalPage.class
+pageObjects\LoginPage.class
